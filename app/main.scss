@@ -1,5 +1,7 @@
-$icon-font-path: '~bootstrap-sass/assets/fonts/bootstrap/';
+//$icon-font-path: '~bootstrap/assets/fonts/bootstrap/';
 
-@import "custom.scss";
-@import "variables.scss";
-@import "bootstrap.scss";
+
+@import '~bootstrap/scss/functions';
+@import "_variables.scss";
+@import "~bootstrap/scss/bootstrap.scss";
+

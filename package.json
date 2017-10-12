@@ -10,7 +10,7 @@
   "author": "Enrico Vogt",
   "license": "ISC",
   "dependencies": {
-    "bootstrap-sass": "^3.3.7",
+    "bootstrap": "^v4.0.0-beta",
     "jquery": "^3.2.1"
   },
   "devDependencies": {
